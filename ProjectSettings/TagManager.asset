@@ -1,0 +1,63 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - PlayerHitBoxTag
+  - roundCounterTag
+  - highestRoundTag
+  - emptyBullet
+  - shotBullet
+  - ttTag
+  - epTag
+  - zsn1
+  - zsn2
+  - zsn3
+  - zsd
+  - epSTag
+  - ttSTag
+  - 750
+  - 1250
+  - 1500
+  - 5000
+  - 2500
+  - 3000
+  - thePlayerTag
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - Ground
+  - Water
+  - UI
+  - ZombieLayer
+  - playerLayer
+  - bulletLayer
+  - interactibleLayer
+  - teleportLayer
+  - wallLayer
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
